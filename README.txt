@@ -1,0 +1,1 @@
+IPv6 support in Java only for > Android 3.0
